@@ -1,6 +1,6 @@
 ## Accordion module by JoomShaper.com (Modified for Joomla 4)
 
-<img src="https://github.com/cmirnow/sp-accordion/blob/master/images/sp_accordion_module.jpg" alt="SP Accordion" width="100%"/>
+<img src="https://github.com/cmirnow/sp-accordion/blob/master/images/sp_accordion_module.jpg" alt="SP Accordion" />
 
 :bangbang: | This is a fork of the SP Accordion by JoomShaper. I really wanted you and I to be able to use this great software on Joomla 4.
 :---: | :--- 
