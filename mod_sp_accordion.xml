@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension type="module" version="3" client="site" method="upgrade">
+<extension type="module" version="4.0" client="site" method="upgrade">
 	<name>SP Accordion module</name>
 	<author>JoomShaper.com</author>
 	<creationDate>Jul 2010</creationDate>
 	<copyright>Copyright (C) 2010 - 2014 JoomShaper.com. All rights reserved.</copyright>
 	<license>GNU/GPL V2 for PHP files</license>
-	<authorEmail>support@joomshaper.com</authorEmail>
+	<authorEmail>info@masterpro.ws</authorEmail>
 	<authorUrl>www.joomshaper.com</authorUrl>
 	<version>2.8.0</version>
 	<description>Accordion module by JoomShaper.com</description>
